@@ -17,14 +17,13 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
-  <a href="#author">Author</a>
 </p>
 
 ## Introduction
 
-Welcome to MeeTUp, this is an web application that allows you to connect with your friends virtually thorugh video and audio. An Application with multi party call features using video and audio. Also added chat functionality to send data to all instant ease to use.
+Welcome to MeeTUp, this is a web application that allows you to connect with your friends virtually through video and audio. An Application with multi-party call features using video and audio. Also added chat functionality to send data to all instant ease of use.
 
-The main goal of this application is to get though the pandemic that happened and allows education, work, training and anything possible. To continue  our lifestyle as the way it was with a little bit adjustments.
+The main goal of this application is to get through the pandemic that happened and allow education, work, training, and anything possible. To continue  our lifestyle as the way it was with a little bit of adjustments.
 
 ## Application in Action
 
@@ -34,14 +33,14 @@ The main goal of this application is to get though the pandemic that happened an
 
 ## Flow
 - Start/Initialize the application
-- Put in the first page
+- Put on the first page
 - Create room using sockets.io
 - add video and broadcast to all
-- add all others to broadast to all
+- add all others to broadcast to all
 - style it
-- Create messaging system
+- Create a messaging system
 - do mute and unmute ability
-- similarly for video, switch it on and off
+- similarly, for video, switch it on and off
 - and pretty much done...
 
 
@@ -79,7 +78,7 @@ Make sure Node JS is installed
 
 ## Key Features
 
-⭐️ Video & Audio - Allows you to stream your webfeed video & audio which will be broadcasted to members.
+⭐️ Video & Audio - Allows you to stream your web feed video & audio which will be broadcasted to members.
 
 ⭐️ Chat Feature - Uses sockets to send text messages to the room members in an instant.
 
@@ -95,7 +94,7 @@ From your command line:
 Make sure Node JS is installed
 
 # Clone the application
-> git clone https://github.com/N-liraj-khanna/MeeTUp
+> git clone https://github.com/calicartels/MeeTUp
 
 # Enter into the directory
 > cd MeeTUp
@@ -120,23 +119,6 @@ This software uses the following open source packages:
 - [Javascript](https://www.javascript.com/)
 
 
-
-## Author
-
-
-👤 **N Liraj Khanna**
-
-* Website: https://github.com/N-liraj-khanna
-* Github: [@N-liraj-khanna](https://github.com/N-liraj-khanna)
-* LinkedIn: [@https://www.linkedin.com/in/n-lirajkhanna/](https://www.linkedin.com/in/n-lirajkhanna/)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
